@@ -1,4 +1,4 @@
-### Opa, e ai! 👋
+### Opa, e aí! 👋
 
 > Me chamo Alessandro, sou um estudante na área de engenharia de dados, *business intelligence* e **entusiasta** na área de infraestrutura e segurança da informação.
 
